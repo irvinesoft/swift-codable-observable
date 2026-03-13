@@ -3,7 +3,7 @@ import PackageDescription
 import CompilerPluginSupport
 
 let package = Package(
-    name: "swift-codableobservable",
+    name: "swift-codable-observable",
     platforms: [
         .macOS(.v13),
         .iOS(.v17)
